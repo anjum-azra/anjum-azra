@@ -12,7 +12,8 @@
 - 🔭 I’m currently working on **TKR Microgreens (Django-based e-commerce)**  
 - 🌱 I’m currently learning **Data Science & AI**  
 - 💬 Ask me about **Python, Java, Django, SQL**  
-- 📫 How to reach me: **pathananjum2006@gmail.com**  
+- 📫 How to reach me: **pathananjum2006@gmail.com**
+- 🔗 PORTFOLIO LINK :- **anjumazra.me**
 - ⚡ Fun fact: **I believe datasets tell stories — I just help them speak 📊**
 
 ---
