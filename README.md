@@ -104,4 +104,4 @@
 
 <h3 align="left">🎓 Certifications</h3>
 
-- ✅ Professional Certification in **Data Science & AI** from **Drishti CPS, IIT Indore**
+- ✅ Professional Certification in **Data Science & AI** from **Drishti CPS, IIT Roorkee**
